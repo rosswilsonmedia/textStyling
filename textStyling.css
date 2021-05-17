@@ -1,0 +1,26 @@
+h1,h2,h3{
+    padding:.5em;
+}
+h1{
+    background-color: black;
+    color:cyan;
+    font-family: 'Pangolin', cursive;
+}
+h1>span{
+    color: white;
+}
+h2{
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+h3{
+    background-color: lightskyblue;
+    color: rebeccapurple;
+    text-align: right;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
